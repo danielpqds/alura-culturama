@@ -1,7 +1,7 @@
 <h1 align="center">ALURA CULTURAMA</h1>
 
 ## Descrição do Projeto
-<p>Este é um projeto pessoal desenvolvido como parte do meu portfólio, chamado Alura Culturama. O Alura Culturama é uma página web simples construída com HTML, CSS e um pouco de JavaScript projetada para demonstrar minhas habilidades de programação front-end e design web.</p>
+<p>Este é um projeto pessoal desenvolvido como parte do meu portfólio, chamado Alura Culturama. O Alura Culturama é uma página web simples construída com HTML e CSS. Projetada para demonstrar minhas habilidades de programação front-end e design web, mais precisamente FlexBox e Grid.</p>
 
 <image align="center">[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)</image>
 
@@ -13,7 +13,6 @@
 ## Tecnologias Utilizadas
 - HTML
 - CSS
-- JavaScript
 
 ## Como Utilizar
 bash
